@@ -1,7 +1,8 @@
 # UAS_PBE
 Deskripsi Aplikasi Downloader Video YouTube menggunakan PyQt5
 
-![image](https://github.com/Daisyorscry/UAS_PBE/assets/150359430/2b3227c1-f5c7-4345-a554-e6690e046ceb)
+![image](https://github.com/Daisyorscry/UAS_PBE/assets/150359430/74a12e03-d3c0-438b-9101-743c5d3d5408)
+
 
 
 Aplikasi "YT Downloader" yang dibangun dengan PyQt5 merupakan alat yang memungkinkan pengguna untuk mengunduh video dari YouTube dengan mudah. Dengan antarmuka pengguna yang bersih dan intuitif, aplikasi ini memberikan pengalaman pengguna yang nyaman dalam mengelola proses pengunduhan.
