@@ -5,7 +5,7 @@ Aplikasi "YT Downloader" yang dibangun dengan PyQt5 merupakan alat yang memungki
 
 #INSTALL
 
-gitclone
+https://github.com/Daisyorscry/UAS_PBE.git
 
 pip install pyqt5
 
