@@ -11,7 +11,7 @@ pip install pyqt5
 
 pip install pytube
 
-Fitur Utama:
+#Fitur Utama:
 
 Input Link Video: Pengguna dapat memasukkan link video YouTube yang ingin diunduh melalui area input yang disediakan. Validasi link dilakukan untuk memastikan koneksi internet dan keberadaan link yang benar.
 
