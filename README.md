@@ -8,6 +8,7 @@ Aplikasi "YT Downloader" yang dibangun dengan PyQt5 merupakan alat yang memungki
 gitclone
 
 pip install pyqt5
+
 pip install pytube
 
 Fitur Utama:
